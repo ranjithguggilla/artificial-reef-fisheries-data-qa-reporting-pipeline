@@ -1,0 +1,13 @@
+site_id,site_name,reef_type,latitude,longitude,depth_m,region,treatment_group
+R-001,AransasNorthBlock,artificial,27.895,-96.965,24.5,CoastalBend,reef
+R-002,AransasControlEast,natural,27.910,-96.920,22.8,CoastalBend,control
+R-003,PackerySouthPatch,artificial,27.635,-97.235,18.3,LagunaMadre,reef
+R-004,PackeryControlWest,natural,27.660,-97.300,17.1,LagunaMadre,control
+R-005,CorpusMidShelf,artificial,27.790,-97.120,29.6,CorpusBay,reef
+R-006,CorpusControlShoal,natural,27.820,-97.060,21.4,CorpusBay,control
+R-007,MatagordaPassInner,artificial,28.575,-95.955,31.2,Matagorda,reef
+R-008,MatagordaControlFlat,natural,28.540,-96.020,26.5,Matagorda,control
+R-009,CedarBayouOuter,artificial,28.135,-96.905,27.9,SanAntonioBay,reef
+R-010,CedarControlLagoon,natural,28.170,-96.980,19.8,SanAntonioBay,control
+R-011,UpperLagunaNursery,artificial,27.770,-97.470,12.4,LagunaMadre,reef
+R-012,LegacySiteMissingCoord,natural,,,-,LagunaMadre,control

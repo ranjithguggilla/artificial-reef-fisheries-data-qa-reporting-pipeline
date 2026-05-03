@@ -1,0 +1,15 @@
+survey_id,site_id,survey_date,method,vessel,observer,visibility_m,sea_state,duration_min
+S-1001,R-001,2025-05-18,camera,RV-Pelican,TeamA,6.5,2,55
+S-1002,R-001,2025-05-18,vertical_line,RV-Pelican,TeamB,6.1,2,60
+S-1003,R-002,2025-05-21,camera,RV-Pelican,TeamA,5.2,3,45
+S-1004,R-003,2025-06-03,vertical_line,RV-Runner,TeamC,4.8,3,50
+S-1005,R-003,2025-06-03,vertical_line,RV-Runner,TeamC,4.8,3,50
+S-1006,R-004,2025-06-10,camera,RV-Runner,TeamD,3.4,4,40
+S-1007,R-005,2025-07-02,diver,RV-Horizon,TeamE,8.1,2,65
+S-1008,R-006,2025-07-05,camera,RV-Horizon,TeamA,7.2,1,55
+S-1009,R-007,2025-09-11,vertical_line,RV-Gulf,TeamB,5.8,3,70
+S-1010,R-008,2025-09-13,camera,RV-Gulf,TeamD,2.3,5,35
+S-1011,R-009,2025-10-01,diver,RV-Delta,TeamE,7.5,2,62
+S-1012,R-010,2025-10-09,camera,RV-Delta,TeamA,5.0,3,48
+S-1013,R-011,2025-08-17,camera,RV-Runner,TeamA,6.9,2,58
+S-1014,R-011,2025-11-05,vertical_line,RV-Runner,TeamC,6.0,2,64

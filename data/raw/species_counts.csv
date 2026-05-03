@@ -1,0 +1,16 @@
+survey_id,species,count,mean_length_cm,confidence_flag
+S-1001,Red Snapper,18,41.2,ok
+S-1001,Greater Amberjack,3,86.5,ok
+S-1002,Red Snapper,24,42.0,ok
+S-1003,Red Snapper,9,38.1,ok
+S-1004,Red Snapper,27,40.2,ok
+S-1005,Red Snapper,160,41.0,review
+S-1006,Vermilion Snapper,12,29.8,ok
+S-1007,Red Snapper,31,43.1,ok
+S-1008,Greater Amberjack,2,90.0,ok
+S-1009,Red Snapper,29,44.7,ok
+S-1010,Red Snapper,6,36.9,review
+S-1011,Red Snapper,21,41.8,ok
+S-1012,Vermilion Snapper,14,28.4,ok
+S-1013,Red Snapper,19,40.1,ok
+S-1014,Red Snapper,17,42.6,ok

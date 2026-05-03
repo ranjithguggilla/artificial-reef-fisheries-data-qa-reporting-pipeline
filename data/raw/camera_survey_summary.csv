@@ -1,0 +1,8 @@
+survey_id,site_id,video_minutes,frames_reviewed,visibility_class,analyst_notes
+S-1001,R-001,52,3120,good,stable conditions
+S-1003,R-002,43,2480,moderate,minor turbidity
+S-1006,R-004,36,2160,poor,high sea-state
+S-1008,R-006,50,3000,good,clear water
+S-1010,R-008,31,1860,poor,limited confidence
+S-1012,R-010,44,2640,moderate,acceptable
+S-1013,R-011,55,3300,good,excellent visibility

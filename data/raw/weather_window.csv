@@ -1,0 +1,13 @@
+survey_date,wind_kts,wave_height_m,weather_ok,notes
+2025-05-18,11,0.7,yes,stable window
+2025-05-21,14,0.9,yes,acceptable
+2025-06-03,16,1.1,yes,marginal for visibility
+2025-06-10,22,1.9,no,rough sea-state
+2025-07-02,9,0.5,yes,ideal
+2025-07-05,10,0.6,yes,ideal
+2025-08-17,12,0.8,yes,stable
+2025-09-11,17,1.3,yes,moderate
+2025-09-13,24,2.1,no,high waves
+2025-10-01,13,0.9,yes,good
+2025-10-09,15,1.0,yes,good
+2025-11-05,18,1.4,yes,moderate

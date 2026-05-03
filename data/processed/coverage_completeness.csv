@@ -1,0 +1,13 @@
+site_id,reef_type,treatment_group,camera,diver,vertical_line,uptime_percent,method_score,uptime_score,completeness_score,coverage_band
+R-001,artificial,reef,1.0,0.0,1.0,91.0,0.6666666666666666,0.91,76.4,High
+R-002,natural,control,1.0,0.0,0.0,88.0,0.3333333333333333,0.88,55.2,Medium
+R-003,artificial,reef,0.0,0.0,2.0,86.0,0.3333333333333333,0.86,54.400000000000006,Medium
+R-004,natural,control,1.0,0.0,0.0,72.0,0.3333333333333333,0.72,48.8,Low
+R-005,artificial,reef,0.0,1.0,0.0,95.0,0.3333333333333333,0.95,57.99999999999999,Medium
+R-006,natural,control,1.0,0.0,0.0,69.0,0.3333333333333333,0.69,47.599999999999994,Low
+R-007,artificial,reef,0.0,0.0,1.0,92.0,0.3333333333333333,0.92,56.800000000000004,Medium
+R-008,natural,control,1.0,0.0,0.0,58.0,0.3333333333333333,0.58,43.199999999999996,Low
+R-009,artificial,reef,0.0,1.0,0.0,83.0,0.3333333333333333,0.83,53.2,Medium
+R-010,natural,control,1.0,0.0,0.0,80.0,0.3333333333333333,0.8,52.0,Medium
+R-011,artificial,reef,1.0,0.0,1.0,90.0,0.6666666666666666,0.9,76.0,High
+R-012,natural,control,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low

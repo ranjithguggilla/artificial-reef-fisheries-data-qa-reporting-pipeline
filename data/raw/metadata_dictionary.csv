@@ -1,0 +1,10 @@
+table_name,column_name,description,data_type
+reef_sites,site_id,Unique reef site identifier,string
+reef_sites,treatment_group,Study assignment reef/control,string
+survey_events,survey_date,Date of field event,date
+survey_events,method,Sampling method camera/diver/vertical_line,string
+species_counts,count,Observed abundance count,integer
+species_counts,confidence_flag,Reviewer confidence hint,string
+acoustic_receiver_summary,uptime_percent,Receiver uptime percentage,float
+camera_survey_summary,visibility_class,Video visibility quality class,string
+weather_window,weather_ok,Whether weather window was acceptable,string
