@@ -1,6 +1,12 @@
-# Artificial Reef Fisheries Data QA & Reporting Pipeline
+# artificial-reef-fisheries-data-qa-reporting-pipeline
+
+[![CI](https://github.com/ranjithguggilla/artificial-reef-fisheries-data-qa-reporting-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/ranjithguggilla/artificial-reef-fisheries-data-qa-reporting-pipeline/actions/workflows/ci.yml)
+![Python 3.11+](https://img.shields.io/badge/python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
+
+Reef survey data QA and reporting pipeline — validation, coverage analysis, export-ready datasets.
 
 ## Purpose
+
 A public-data-safe prototype inspired by artificial reef and fisheries monitoring workflows.
 
 ## Why this matters
