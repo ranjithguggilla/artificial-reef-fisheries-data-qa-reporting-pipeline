@@ -9,6 +9,40 @@ Reef survey data QA and reporting pipeline — validation, coverage analysis, ex
 
 A public-data-safe prototype inspired by artificial reef and fisheries monitoring workflows.
 
+## Demo media
+
+Streamlit dashboard (**`streamlit run app.py`** after installing dependencies). Synthetic sample data only.
+
+### Walkthrough GIF
+
+Full UI walkthrough (**`assets/gifs/demo-overview.gif`**). Encoded at **3 fps** and **720px** width so the README stays fast to load on GitHub.
+
+![Artificial reef QA dashboard walkthrough](assets/gifs/demo-overview.gif)
+
+### Screenshots
+
+<details>
+<summary><strong>Expand: 14 dashboard screenshots</strong> (overview → map → QA → analytics → export)</summary>
+
+| View | Preview |
+|------|---------|
+| Project overview | ![Project overview](assets/screenshots/01-project-overview.png) |
+| Reef coverage map | ![Map](assets/screenshots/02-map-reef-coverage.png) |
+| QA findings table | ![QA findings](assets/screenshots/03-qa-findings-table.png) |
+| QA Summary (page) | ![QA summary page](assets/screenshots/04-qa-summary-page.png) |
+| QA matrix + weather limits | ![QA matrix and weather](assets/screenshots/05-qa-matrix-and-weather.png) |
+| Method coverage matrix | ![Method coverage matrix](assets/screenshots/06-qa-method-coverage-matrix.png) |
+| Analytics — CPUE summary | ![CPUE summary](assets/screenshots/07-analytics-cpue-summary.png) |
+| Analytics — species richness | ![Species richness](assets/screenshots/08-analytics-species-richness.png) |
+| Analytics — survey effort | ![Survey effort](assets/screenshots/09-analytics-survey-effort-chart.png) |
+| Analytics — receiver trends | ![Receiver trends](assets/screenshots/10-analytics-receiver-detection-trends.png) |
+| Analytics — species by site | ![Species by site](assets/screenshots/11-analytics-species-summary-by-site.png) |
+| Analytics — species table | ![Species table](assets/screenshots/12-analytics-species-summary-table.png) |
+| Export — generate | ![Export generate](assets/screenshots/13-export-generate-outputs.png) |
+| Export — generated paths | ![Export artifacts](assets/screenshots/14-export-generated-artifacts.png) |
+
+</details>
+
 ## Why this matters
 Large field programs often combine reef metadata, survey methods, species counts, telemetry summaries, and environmental context. This demo shows how messy multi-method inputs can be standardized, quality-checked, summarized, and packaged for reproducible research reporting.
 
@@ -85,35 +119,6 @@ make run
 - `outputs/receiver_uptime_summary.csv`
 - `outputs/uncertainty_notes.md`
 - `outputs/cleaned_export_package.zip`
-
-## Demo media
-
-### Walkthrough GIF
-
-Full dashboard walkthrough: **`assets/gifs/demo-overview.gif`** (converted from a screen recording; **3 fps**, **720px** wide for a smaller GitHub-friendly file).
-
-![Artificial reef QA dashboard walkthrough](assets/gifs/demo-overview.gif)
-
-### Screenshots
-
-Dashboard screenshots from the Streamlit UI (`streamlit run app.py`) live in **`assets/screenshots/`**.
-
-| View | Preview |
-|------|---------|
-| Project overview | ![Project overview](assets/screenshots/01-project-overview.png) |
-| Reef coverage map | ![Map](assets/screenshots/02-map-reef-coverage.png) |
-| QA findings table | ![QA findings](assets/screenshots/03-qa-findings-table.png) |
-| QA Summary (page) | ![QA summary page](assets/screenshots/04-qa-summary-page.png) |
-| QA matrix + weather limits | ![QA matrix and weather](assets/screenshots/05-qa-matrix-and-weather.png) |
-| Method coverage matrix | ![Method coverage matrix](assets/screenshots/06-qa-method-coverage-matrix.png) |
-| Analytics — CPUE summary | ![CPUE summary](assets/screenshots/07-analytics-cpue-summary.png) |
-| Analytics — species richness | ![Species richness](assets/screenshots/08-analytics-species-richness.png) |
-| Analytics — survey effort | ![Survey effort](assets/screenshots/09-analytics-survey-effort-chart.png) |
-| Analytics — receiver trends | ![Receiver trends](assets/screenshots/10-analytics-receiver-detection-trends.png) |
-| Analytics — species by site | ![Species by site](assets/screenshots/11-analytics-species-summary-by-site.png) |
-| Analytics — species table | ![Species table](assets/screenshots/12-analytics-species-summary-table.png) |
-| Export — generate | ![Export generate](assets/screenshots/13-export-generate-outputs.png) |
-| Export — generated paths | ![Export artifacts](assets/screenshots/14-export-generated-artifacts.png) |
 
 ## Possible research support value
 This kind of workflow can support field-program organization, QA, and reporting readiness without overclaiming biological inference.
