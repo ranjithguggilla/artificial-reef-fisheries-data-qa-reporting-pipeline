@@ -86,5 +86,26 @@ make run
 - `outputs/uncertainty_notes.md`
 - `outputs/cleaned_export_package.zip`
 
+## Demo media
+
+Dashboard screenshots from the Streamlit UI (`streamlit run app.py`) live in **`assets/screenshots/`**.
+
+| View | Preview |
+|------|---------|
+| Project overview | ![Project overview](assets/screenshots/01-project-overview.png) |
+| Reef coverage map | ![Map](assets/screenshots/02-map-reef-coverage.png) |
+| QA findings table | ![QA findings](assets/screenshots/03-qa-findings-table.png) |
+| QA Summary (page) | ![QA summary page](assets/screenshots/04-qa-summary-page.png) |
+| QA matrix + weather limits | ![QA matrix and weather](assets/screenshots/05-qa-matrix-and-weather.png) |
+| Method coverage matrix | ![Method coverage matrix](assets/screenshots/06-qa-method-coverage-matrix.png) |
+| Analytics — CPUE summary | ![CPUE summary](assets/screenshots/07-analytics-cpue-summary.png) |
+| Analytics — species richness | ![Species richness](assets/screenshots/08-analytics-species-richness.png) |
+| Analytics — survey effort | ![Survey effort](assets/screenshots/09-analytics-survey-effort-chart.png) |
+| Analytics — receiver trends | ![Receiver trends](assets/screenshots/10-analytics-receiver-detection-trends.png) |
+| Analytics — species by site | ![Species by site](assets/screenshots/11-analytics-species-summary-by-site.png) |
+| Analytics — species table | ![Species table](assets/screenshots/12-analytics-species-summary-table.png) |
+| Export — generate | ![Export generate](assets/screenshots/13-export-generate-outputs.png) |
+| Export — generated paths | ![Export artifacts](assets/screenshots/14-export-generated-artifacts.png) |
+
 ## Possible research support value
 This kind of workflow can support field-program organization, QA, and reporting readiness without overclaiming biological inference.
