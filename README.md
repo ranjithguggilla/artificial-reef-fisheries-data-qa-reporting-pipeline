@@ -88,6 +88,14 @@ make run
 
 ## Demo media
 
+### Walkthrough GIF
+
+Full dashboard walkthrough: **`assets/gifs/demo-overview.gif`** (converted from a screen recording; **3 fps**, **720px** wide for a smaller GitHub-friendly file).
+
+![Artificial reef QA dashboard walkthrough](assets/gifs/demo-overview.gif)
+
+### Screenshots
+
 Dashboard screenshots from the Streamlit UI (`streamlit run app.py`) live in **`assets/screenshots/`**.
 
 | View | Preview |
