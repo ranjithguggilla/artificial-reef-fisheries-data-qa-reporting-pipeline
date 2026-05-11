@@ -9,12 +9,6 @@ Reef survey data QA and reporting pipeline — validation, coverage analysis, ex
 
 A public-data-safe prototype inspired by artificial reef and fisheries monitoring workflows.
 
-## Data & limitations
-
-- **Public-data-safe:** Synthetic and public-safe sample data only—no confidential operational submissions.
-- **No internal HRI/CSSC data:** This repository does **not** use confidential, restricted, or internal datasets from HRI, CSSC, or partner fishery programs.
-- **Prototype:** Not biological inference, stock assessment, or management-grade output from this demo pipeline—outputs are for reproducible QA/reporting **methods** illustration.
-
 ## Demo media
 
 Streamlit dashboard (**`streamlit run app.py`** after installing dependencies). Synthetic sample data only.
@@ -59,6 +53,9 @@ Large field programs often combine reef metadata, survey methods, species counts
 - summarizes species counts and receiver uptime
 - exports cleaned research-ready datasets
 
+## Data note
+This repository uses synthetic and public-safe sample data only.
+
 ## Workflow
 raw data -> cleaning -> QA checks -> analytics -> maps -> export package
 
@@ -101,8 +98,6 @@ make setup
 make run
 ```
 
-**Contributors on GitHub:** run `git config core.hooksPath .githooks` once after clone so `Co-authored-by` lines are not added to commits.
-
 ## Quality checks
 
 - Local smoke test:
@@ -123,6 +118,5 @@ make run
 - `outputs/uncertainty_notes.md`
 - `outputs/cleaned_export_package.zip`
 
-## How this could support research workflows
-
-This kind of workflow can support field-program organization, QA, and reporting readiness—without treating demo outputs as biological inference or operational monitoring results.
+## Possible research support value
+This kind of workflow can support field-program organization, QA, and reporting readiness without overclaiming biological inference.
